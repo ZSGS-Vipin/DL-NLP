@@ -1,1 +1,6 @@
 # DL-NLP
+
+Beginner trying to learn about NN
+ML,ANN,RNN,LSTM,BIDIRECTONAL LSTM
+NLP
+TEXT RELATED REPO
