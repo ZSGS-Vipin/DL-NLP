@@ -1,6 +1,6 @@
 # DL-NLP
 
-Beginner trying to learn about NN
+ NN
 ML,ANN,RNN,LSTM,BIDIRECTONAL LSTM
 NLP
 TEXT RELATED REPO
